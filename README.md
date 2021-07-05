@@ -2,9 +2,13 @@
 A Simple Calculator Service using Node &amp; Express
 
 
-## Available Scripts
+## Steps to run in Development mode
+Open cmd and Clone repo using `git clone https://github.com/akhilpallikonda/calculator-api.git`
 
-In the project directory, you can run:
+Navigate to folder 'calculator-api' and run below command.
+`npm install` 
+
+In the project directory, you can run to start service:
 
 ### `npm start`
 
